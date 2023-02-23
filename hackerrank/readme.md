@@ -8,6 +8,7 @@
 | -------- | ----- | ---------- | --------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
 | C        | Basic | Easy       | 5         | ["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem)               | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/c/hello-world-in-c.c)        |
 | C        | Basic | Easy       | 5         | [Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters/problem) | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/c/playing-with-characters.c) |
+| C        | Basic | Easy       | 5         | [Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem) | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/c/sum-numbers-c.c)           |
 
 ---
 
