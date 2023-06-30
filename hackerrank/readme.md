@@ -18,6 +18,8 @@
 | -------- | ----- | ---------- | --------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
 | Python   | Basic | Easy       | 1         | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/problem-solving/solve-me-first.py) |
 
+---
+
 ## Python
 
 | Language | Skill | Difficulty | Max Score | Problem                                                                                    | Code                                                                                                          |
