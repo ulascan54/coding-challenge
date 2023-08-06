@@ -25,3 +25,18 @@
 | Language | Skill | Difficulty | Max Score | Problem                                                                                    | Code                                                                                                          |
 | -------- | ----- | ---------- | --------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
 | Python   | Basic | Easy       | 1         | [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/python/defaultdict-tutorial.py) |
+
+---
+
+## Java
+
+| Language | Skill | Difficulty | Max Score | Problem                                                                                          | Code                                                                                                             |
+| -------- | ----- | ---------- | --------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
+| Java     | Basic | Easy       | 3         | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem)                | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/java/welcome-java.java)            |
+| Java     | Basic | Easy       | 10        | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem)                       | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/java/java-if-else.java)            |
+| Java     | Basic | Easy       | 10        | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem)                   | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/java/java-datatypes.java)          |
+| Java     | Basic | Easy       | 5         | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/java/java-stdin-and-stdout-1.java) |
+| Java     | Basic | Easy       | 10        | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)      | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/java/java-stdin-stdout.java)       |
+| Java     | Basic | Easy       | 10        | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem)   | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/java/java-output-formatting.java)  |
+| Java     | Basic | Easy       | 10        | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)                       | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/java/java-loops-i.java)            |
+| Java     | Basic | Easy       | 10        | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem)                        | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/java/java-loops.java)              |
