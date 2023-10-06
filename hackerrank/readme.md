@@ -2,7 +2,7 @@
 
 ---
 
-## C-INTRODUCTION
+## C
 
 | Language | Skill | Difficulty | Max Score | Problem                                                                                          | Code                                                                                                       |
 | -------- | ----- | ---------- | --------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
@@ -46,3 +46,11 @@
 | Java     | Basic | Easy       | 5         | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)        | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/java/java-1d-array-introduction.java) |
 | Java     | Basic | Medium     | 25        | [Java 1D Array (Part 2)](https://www.hackerrank.com/challenges/java-1d-array/problem)            | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/java/java-1d-array.java)              |
 | Java     | Basic | Easy       | 10        | [Java 1D Array (Part 2)](https://www.hackerrank.com/challenges/java-negative-subarray/problem)   | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/java/java-negative-subarray.java)     |
+
+## CPP
+
+| Language | Skill | Difficulty | Max Score | Problem                                                                                  | Code                                                                                                        |
+| -------- | ----- | ---------- | --------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| C        | Basic | Easy       | 5         | ["Input and Output"](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/cpp/cpp-input-and-output.cpp) |
+
+---
