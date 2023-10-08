@@ -49,9 +49,10 @@
 
 ## CPP
 
-| Language | Skill | Difficulty | Max Score | Problem                                                                                                | Code                                                                                                        |
-| -------- | ----- | ---------- | --------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
-| C        | Basic | Easy       | 5         | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem)                 | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/cpp/cpp-input-and-output.cpp) |
-| C        | Basic | Easy       | 5         | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem) | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/cpp/cpp-input-and-output.cpp) |
+| Language | Skill | Difficulty | Max Score | Problem                                                                                                | Code                                                                                                                  |
+| -------- | ----- | ---------- | --------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
+| C        | Basic | Easy       | 5         | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem)                 | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/cpp/cpp-input-and-output.cpp)           |
+| C        | Basic | Easy       | 5         | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem) | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/cpp/c-tutorial-conditional-if-else.cpp) |
+| C        | Basic | Easy       | 10        | [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem)                          | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/cpp/c-tutorial-for-loop.cpp)            |
 
 ---
