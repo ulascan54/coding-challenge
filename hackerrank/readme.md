@@ -57,5 +57,6 @@
 | C++      | Basic | Easy       | 10        | [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem)                        | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/cpp/c-tutorial-functions.cpp)           |
 | C++      | Basic | Easy       | 10        | [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem)                            | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/cpp/c-tutorial-pointer.cpp)             |
 | C++      | Basic | Easy       | 10        | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem)               | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/cpp/arrays-introduction.cpp)            |
+| C++      | Basic | Easy       | 10        | [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem)          | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/cpp/c-tutorial-basic-data-types.cpp)    |
 
 ---
