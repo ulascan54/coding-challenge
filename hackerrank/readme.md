@@ -4,16 +4,19 @@
 
 ## C
 
-| Language | Skill | Difficulty | Max Score | Problem                                                                                                  | Code                                                                                                           |
-| -------- | ----- | ---------- | --------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| C        | Basic | Easy       | 5         | ["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem)                       | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/c/hello-world-in-c.c)            |
-| C        | Basic | Easy       | 5         | [Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters/problem)         | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/c/playing-with-characters.c)     |
-| C        | Basic | Easy       | 5         | [Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem)         | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/c/sum-numbers-c.c)               |
-| C        | Basic | Easy       | 5         | [Functions in C](https://www.hackerrank.com/challenges/functions-in-c/problem)                           | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/c/functions-in-c.c)              |
-| C        | Basic | Easy       | 5         | [Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c/problem)                              | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/c/pointer-in-c.c)                |
-| C        | Basic | Easy       | 5         | [Conditional Statements in C](https://www.hackerrank.com/challenges/conditional-statements-in-c/problem) | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/c/conditional-statements-in-c.c) |
+| Language | Skill | Difficulty | Max Score | Problem                                                                                                                    | Code                                                                                                                    |
+| -------- | ----- | ---------- | --------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| C        | Basic | Easy       | 5         | ["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem)                                         | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/c/hello-world-in-c.c)                     |
+| C        | Basic | Easy       | 5         | [Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters/problem)                           | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/c/playing-with-characters.c)              |
+| C        | Basic | Easy       | 5         | [Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem)                           | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/c/sum-numbers-c.c)                        |
+| C        | Basic | Easy       | 5         | [Functions in C](https://www.hackerrank.com/challenges/functions-in-c/problem)                                             | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/c/functions-in-c.c)                       |
+| C        | Basic | Easy       | 5         | [Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c/problem)                                                | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/c/pointer-in-c.c)                         |
+| C        | Basic | Easy       | 5         | [Conditional Statements in C](https://www.hackerrank.com/challenges/conditional-statements-in-c/problem)                   | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/c/conditional-statements-in-c.c)          |
+| C        | Basic | Easy       | 10        | [Loops in C](https://www.hackerrank.com/challenges/for-loop-in-c/problem)                                                  | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/c/for-loop-in-c.c)                        |
+| C        | Basic | Easy       | 15        | [Sum of Digits of a Five Digit Number](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem) | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/c/sum-of-digits-of-a-five-digit-number.c) |
+| C        | Basic | Easy       | 15        | [Bitwise Operators](https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem)                                  | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/c/bitwise-operators-in-c.c)               |
 
----
+## bitwise-operators-in-c
 
 ## Algorithms-Warmup
 
@@ -61,5 +64,6 @@
 | C++      | Basic | Easy       | 10        | [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem)                            | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/cpp/c-tutorial-pointer.cpp)             |
 | C++      | Basic | Easy       | 10        | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem)               | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/cpp/arrays-introduction.cpp)            |
 | C++      | Basic | Easy       | 10        | [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem)          | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/cpp/c-tutorial-basic-data-types.cpp)    |
+| C++      | Basic | Easy       | 20        | [Students Marks Sum](https://www.hackerrank.com/challenges/students-marks-sum/problem)                 | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/cpp/students-marks-sum.cpp)             |
 
 ---
