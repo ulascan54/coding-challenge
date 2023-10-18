@@ -15,6 +15,10 @@
 | C        | Basic | Easy       | 10        | [Loops in C](https://www.hackerrank.com/challenges/for-loop-in-c/problem)                                                  | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/c/for-loop-in-c.c)                        |
 | C        | Basic | Easy       | 15        | [Sum of Digits of a Five Digit Number](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem) | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/c/sum-of-digits-of-a-five-digit-number.c) |
 | C        | Basic | Easy       | 15        | [Bitwise Operators](https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem)                                  | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/c/bitwise-operators-in-c.c)               |
+| C        | Basic | Easy       | 15        | [Calculate the Nth term](https://www.hackerrank.com/challenges/recursion-in-c/problem)                                     | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/c/recursion-in-c.c)                       |
+| C        | Basic | Easy       | 20        | [Students Marks Sum](https://www.hackerrank.com/challenges/students-marks-sum/problem)                                     | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/c/students-marks-sum.c)                   |
+| C        | Basic | Easy       | 25        | [Boxes through a Tunnel](https://www.hackerrank.com/challenges/too-high-boxes/problem)                                     | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/c/too-high-boxes.c)                       |
+| C        | Basic | Easy       | 25        | [Printing Pattern Using Loops](https://www.hackerrank.com/challenges/printing-pattern-2/problem)                           | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/c/printing-pattern-2.c)                   |
 
 ## bitwise-operators-in-c
 
@@ -64,6 +68,5 @@
 | C++      | Basic | Easy       | 10        | [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem)                            | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/cpp/c-tutorial-pointer.cpp)             |
 | C++      | Basic | Easy       | 10        | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem)               | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/cpp/arrays-introduction.cpp)            |
 | C++      | Basic | Easy       | 10        | [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem)          | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/cpp/c-tutorial-basic-data-types.cpp)    |
-| C++      | Basic | Easy       | 20        | [Students Marks Sum](https://www.hackerrank.com/challenges/students-marks-sum/problem)                 | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/cpp/students-marks-sum.cpp)             |
 
 ---
