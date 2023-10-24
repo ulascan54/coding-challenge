@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/ulascandemirbag/Development/coding-challenge/letcode",
-      "program": "/Users/ulascandemirbag/Development/coding-challenge/letcode/build/Debug/outDebug"
+      "cwd": "/Users/ulascandemirbag/Development/coding-challenge/hackerrank/problem-solving",
+      "program": "/Users/ulascandemirbag/Development/coding-challenge/hackerrank/problem-solving/build/Debug/outDebug"
     }
   ]
 }
