@@ -1,0 +1,3 @@
+| Language | Problem                                                                             | Code                                                                                                 |
+| -------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| CPP      | [Print Linked List](https://workat.tech/problem-solving/practice/print-linked-list) | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/workattech/print-linked-list.cpp) |
