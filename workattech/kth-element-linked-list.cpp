@@ -12,12 +12,23 @@ public:
 };
 */
 
-ListNode *kthElement(ListNode *head, int k)
+ListNode *addAtkthElement(ListNode *head, int k, ListNode *newElement)
 {
-	// add your logic here
 	if (k == 1)
 	{
-		return head;
+		newElement->next = head;
+		head = newElement;
 	}
-	return kthElement(head->next, k - 1);
+	else
+	{
+		ListNode *iterator = head;
+		while (k > 2 && iterator != NULL)
+		{
+			iterator = iterator->next;
+			k--;
+		}
+		newElement->next = iterator->next;
+		iterator->next = newElement;
+	}
+	return head;
 }

@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/ulascandemirbag/Development/coding-challenge/hackerrank/problem-solving",
-      "program": "/Users/ulascandemirbag/Development/coding-challenge/hackerrank/problem-solving/build/Debug/outDebug"
+      "cwd": "/Users/ulascandemirbag/Development/coding-challenge/workattech",
+      "program": "/Users/ulascandemirbag/Development/coding-challenge/workattech/build/Debug/outDebug"
     }
   ]
 }
