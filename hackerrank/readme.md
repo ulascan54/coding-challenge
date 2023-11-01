@@ -24,10 +24,11 @@
 
 ## Problem Solving
 
-| Language | Skill | Difficulty | Max Score | Problem                                                                        | Code                                                                                                             |
-| -------- | ----- | ---------- | --------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
-| Python   | Basic | Easy       | 1         | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/problem-solving/solve-me-first.py) |
-| CPP      | Basic | Easy       | 10        | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)         | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/problem-solving/arrays-ds.cpp)     |
+| Language | Skill | Difficulty | Max Score | Problem                                                                                                                  | Code                                                                                                                                   |
+| -------- | ----- | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Python   | Basic | Easy       | 1         | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)                                           | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/problem-solving/solve-me-first.py)                       |
+| CPP      | Basic | Easy       | 10        | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)                                                   | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/problem-solving/arrays-ds.cpp)                           |
+| CPP      | Basic | Easy       | 5         | [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/problem-solving/print-the-elements-of-a-linked-list.cpp) |
 
 ---
 
