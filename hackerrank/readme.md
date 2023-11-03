@@ -30,6 +30,7 @@
 | CPP      | Basic | Easy       | 10        | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)                                                                 | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/problem-solving/arrays-ds.cpp)                                  |
 | CPP      | Basic | Easy       | 5         | [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)               | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/problem-solving/print-the-elements-of-a-linked-list.cpp)        |
 | CPP      | Basic | Easy       | 5         | [Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem) | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/problem-solving/insert-a-node-at-the-tail-of-a-linked-list.cpp) |
+| CPP      | Basic | Easy       | 5         | [Delete a Node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem)                                        | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/problem-solving/delete-a-node-from-a-linked-list.cpp)           |
 
 ---
 
