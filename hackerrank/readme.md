@@ -33,6 +33,7 @@
 | CPP      | Basic | Easy       | 5         | [Delete a Node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem)                                        | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/problem-solving/delete-a-node-from-a-linked-list.cpp)               |
 | CPP      | Basic | Easy       | 5         | [Print in Reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem)                       | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/problem-solving/print-the-elements-of-a-linked-list-in-reverse.cpp) |
 | CPP      | Basic | Easy       | 5         | [Reverse a Linked List](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem)                                           | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/problem-solving/reverse-a-linked-list.cpp)                          |
+| CPP      | Basic | Easy       | 5         | [Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem)                                     | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/problem-solving/compare-two-linked-lists.cpp)                       |
 
 ---
 
