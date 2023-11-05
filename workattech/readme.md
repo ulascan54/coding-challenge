@@ -10,3 +10,4 @@
 | CPP      | [Remove occurrences in Linked List](https://workat.tech/problem-solving/practice/remove-occurences-linked-list)  | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/workattech/remove-occurences-linked-list.cpp)  |
 | CPP      | [Middle Element of Linked List](https://workat.tech/problem-solving/practice/middle-element-linked-list)         | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/workattech/middle-element-linked-list.cpp)     |
 | CPP      | [Merge Two Sorted Linked List](https://workat.tech/problem-solving/practice/merge-sorted-linked-list)            | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/workattech/merge-sorted-linked-list.cpp)       |
+| CPP      | [Linked List Palindrome](https://workat.tech/problem-solving/practice/linked-list-palindrome)                    | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/workattech/linked-list-palindrome.cpp)         |
