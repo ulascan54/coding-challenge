@@ -6,3 +6,4 @@
 | CPP      | [Kth Element in Linked List](https://workat.tech/problem-solving/practice/kth-element-linked-list)               | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/workattech/kth-element-linked-list.cpp)        |
 | CPP      | [Delete Kth Element in Linked List](https://workat.tech/problem-solving/practice/delete-kth-element-linked-list) | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/workattech/delete-kth-element-linked-list.cpp) |
 | CPP      | [Append Linked Lists](https://workat.tech/problem-solving/practice/append-linked-lists)                          | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/workattech/append-linked-lists.cpp)            |
+| CPP      | [Reverse a Linked List](https://workat.tech/problem-solving/practice/reverse-linked-list)                        | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/workattech/reverse-linked-list.cpp)            |
