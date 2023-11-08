@@ -39,6 +39,7 @@
 | CPP      | Basic | Easy       | 5         | [Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem) | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/problem-solving/delete-duplicate-value-nodes-from-a-sorted-linked-list.cpp)         |
 | CPP      | Basic | Medium     | 5         | [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)                                                 | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/problem-solving/detect-whether-a-linked-list-contains-a-cycle.cpp)                  |
 | CPP      | Basic | Easy       | 5         | [Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem)                                 | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/problem-solving/find-the-merge-point-of-two-joined-linked-lists.cpp)                |
+| CPP      | Basic | Easy       | 5         | [Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem)   | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/problem-solving/insert-a-node-at-a-specific-position-in-a-linked-list.cpp)          |
 
 ---
 
