@@ -49,9 +49,10 @@
 
 ## Python
 
-| Language | Skill | Difficulty | Max Score | Problem                                                                                    | Code                                                                                                          |
-| -------- | ----- | ---------- | --------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
-| Python   | Basic | Easy       | 1         | [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/python/defaultdict-tutorial.py) |
+| Language | Skill | Difficulty | Max Score | Problem                                                                                         | Code                                                                                                          |
+| -------- | ----- | ---------- | --------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Python   | Basic | Easy       | 1         | [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)      | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/python/defaultdict-tutorial.py) |
+| Python   | Basic | Easy       | 5         | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/python/py-hello-world.py)       |
 
 ---
 
