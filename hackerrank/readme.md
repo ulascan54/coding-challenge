@@ -49,11 +49,12 @@
 
 ## Python
 
-| Language | Skill | Difficulty | Max Score | Problem                                                                                         | Code                                                                                                          |
-| -------- | ----- | ---------- | --------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| Python   | Basic | Easy       | 1         | [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)      | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/python/defaultdict-tutorial.py) |
-| Python   | Basic | Easy       | 5         | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/python/py-hello-world.py)       |
-| Python   | Basic | Easy       | 5         | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-if-else/problem)     | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/python/py-if-else.py)           |
+| Language | Skill | Difficulty | Max Score | Problem                                                                                           | Code                                                                                                                 |
+| -------- | ----- | ---------- | --------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Python   | Basic | Easy       | 1         | [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)        | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/python/defaultdict-tutorial.py)        |
+| Python   | Basic | Easy       | 5         | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem)   | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/python/py-hello-world.py)              |
+| Python   | Basic | Easy       | 5         | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)                        | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/python/py-if-else.py)                  |
+| Python   | Basic | Easy       | 10        | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/python/python-arithmetic-operators.py) |
 
 ---
 
