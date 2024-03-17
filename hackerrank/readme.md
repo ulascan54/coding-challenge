@@ -56,6 +56,10 @@
 | Python   | Basic | Easy       | 5         | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)                        | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/python/py-if-else.py)                  |
 | Python   | Basic | Easy       | 10        | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/python/python-arithmetic-operators.py) |
 | Python   | Basic | Easy       | 10        | [Python: Division](https://www.hackerrank.com/challenges/python-division/problem)                 | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/python/python-division.py)             |
+| Python   | Basic | Easy       | 10        | [Loops](https://www.hackerrank.com/challenges/python-loops/problem)                               | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/python/python-loops.py)                |
+| Python   | Basic | Easy       | 10        | [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem)                | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/python/write-a-function.py)            |
+| Python   | Basic | Easy       | 10        | [Print Function](https://www.hackerrank.com/challenges/python-print/problem)                      | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/python/python-print.py)                |
+| Python   | Basic | Easy       | 10        | [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)                       | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank/python/kangaroo.py)                    |
 
 ---
 
