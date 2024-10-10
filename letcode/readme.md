@@ -5,3 +5,4 @@
 | CPP      | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/letcode/merge-two-sorted-lists.cpp) |
 | CPP      | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)       | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/letcode/reverse-linked-list.cpp)    |
 | CPP      | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)           | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/letcode/valid-parentheses.cpp)      |
+| CPP      | [Valid Parentheses](https://leetcode.com/problems/daily-temperatures/)          | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/letcode/daily-temperatures.cpp)     |
