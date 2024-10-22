@@ -7,3 +7,4 @@
 | CPP      | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                     | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/letcode/valid-parentheses.cpp)          |
 | CPP      | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                   | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/letcode/daily-temperatures.cpp)         |
 | Python   | [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/letcode/find-closest-number-to-zero.py) |
+| Python   | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)     | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/letcode/merge-strings-alternately.py)   |
