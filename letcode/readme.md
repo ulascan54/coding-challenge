@@ -11,3 +11,4 @@
 | Python   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                               | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/letcode/roman-to-integer.py)                |
 | Python   | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                   | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/letcode/is-subsequence.py)                  |
 | Python   | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/letcode/best-time-to-buy-and-sell-stock.py) |
+| Python   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                     | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/letcode/longest-common-prefix.py)           |
