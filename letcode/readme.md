@@ -14,3 +14,4 @@
 | Python     | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                     | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/letcode/longest-common-prefix.py)           |
 | Python     | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                             | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/letcode/palindrome-number.py)               |
 | JavaScript | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/)         | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/letcode/create-hello-world-function.js)     |
+| JavaScript | [Create Hello World Function](https://leetcode.com/problems/counter/)                             | [Solution](https://github.com/ulascan54/coding-challenge/blob/main/letcode/counter.js)                         |
