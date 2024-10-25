@@ -25,12 +25,12 @@ To run the codes:
 
 Here are links to the specific platforms and the corresponding solutions in this repository:
 
-- [Letcode](https://github.com/yourusername/coding-challenge/blob/main/letcode)
-- [HackerRank](https://github.com/yourusername/coding-challenge/blob/main/hackerrank)
-- [WorkAtTech](https://github.com/yourusername/coding-challenge/blob/main/workattech)
-- [GeeksForGeeks](https://github.com/yourusername/coding-challenge/blob/main/geeksforgeeks)
-- [LintCode](https://github.com/yourusername/coding-challenge/blob/main/lintcode)
-- [CodeByte](https://github.com/yourusername/coding-challenge/blob/main/codebyte)
+- [Letcode](https://github.com/ulascan54/coding-challenge/blob/main/letcode)
+- [HackerRank](https://github.com/ulascan54/coding-challenge/blob/main/hackerrank)
+- [WorkAtTech](https://github.com/ulascan54/coding-challenge/blob/main/workattech)
+- [GeeksForGeeks](https://github.com/ulascan54/coding-challenge/blob/main/geeksforgeeks)
+- [LintCode](https://github.com/ulascan54/coding-challenge/blob/main/lintcode)
+- [CodeByte](https://github.com/ulascan54/coding-challenge/blob/main/codebyte)
 
 ## Contributing
 
